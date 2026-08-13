@@ -1,32 +1,39 @@
-### Hi there 👋
+# Olá, eu sou o Hariel 👋
 
-## Bem-vindo(a) ao perfil do Hariel Baltor 😁
+Analista de Operações Pleno no mercado financeiro brasileiro, em transição para uma atuação cada vez mais orientada a dados e tecnologia.
 
- <div>
-   <a href="https://github.com/HarielRB">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarielRB&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarielRB&layout=compact&langs_count=6&theme=merko"/>
+## 🧭 Sobre mim
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+- 💼 Atuo como **Analista de Operações Pleno** na **CSDBR**, depositária do mercado financeiro brasileiro
+- 🎓 Formado em **Administração**, com **MBA em Finanças e Controladoria** pela **USP/ESALQ** (2025)
+- 🐍 No trabalho, uso **Python** e **pandas** para manipulação e cálculo de contratos de **Opções Flexíveis** e **NDFs**
+- 🔎 Desenvolvi ferramentas de captura de cotações via **web scraping** e tratamento de **XML**
+- ☁️ Atualmente me certificando em **AWS** (Cloud Practitioner e CloudOps Engineer)
+- 📊 Construindo projetos de análise de dados aplicados ao mercado financeiro brasileiro
 
-          
-</div>
- 
- <br>
- 
- 
- 
-<div> 
-  <a href="https://www.instagram.com/harielbaltor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:baltor.hariel@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hariel-rodrigues-baltor-024815204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/HarielRB/HarielRB/blob/output/github-contribution-grid-snake.svg)
+## 🛠️ Stack & Ferramentas
 
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+## 📂 Projetos em destaque
+
+### 📈 Análise de séries temporais econômicas (Banco Central - SGS)
+Projeto de SQL com dados públicos do Banco Central do Brasil, explorando perguntas de negócio como a variação do dólar em relação à taxa de juros e o impacto do IPCA na Selic — usando queries complexas, window functions e CTEs em PostgreSQL.
+
+> 🔗 => em desenvolvimento
+
+## 🌱 Em estudo
+
+- AWS Certified Cloud Practitioner & CloudOps Engineer (SOA-C03)
+- Análise e Desenvolvimento de Sistemas
+- SQL avançado e Python aplicado a dados financeiros
+
+## 📫 Contato
+
+- LinkedIn: (https://github.com/HarielRB)
+- E-mail: baltor.hariel@gmail.com
