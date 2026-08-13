@@ -35,5 +35,5 @@ Projeto de SQL com dados públicos do Banco Central do Brasil, explorando pergun
 
 ## 📫 Contato
 
-- LinkedIn: (https://github.com/HarielRB)
+- LinkedIn: (https://www.linkedin.com/in/hariel-rodrigues-baltor-024815204/)
 - E-mail: baltor.hariel@gmail.com
