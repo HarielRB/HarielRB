@@ -25,8 +25,8 @@ Analista de Operações Pleno no mercado financeiro brasileiro, em transição p
 ### 📈 Análise de séries temporais econômicas (Banco Central - SGS)
 Projeto de SQL com dados públicos do Banco Central do Brasil, explorando perguntas de negócio como a variação do dólar em relação à taxa de juros e o impacto do IPCA na Selic — usando queries complexas, window functions e CTEs em PostgreSQL.
 
-> 🔗 => em desenvolvimento
-
+> 🔗 => [Coleta de Informações SGS e IBGE
+](https://github.com/HarielRB/coleta-sgs-ibge)
 ## 🌱 Em estudo
 
 - AWS Certified Cloud Practitioner & CloudOps Engineer (SOA-C03)
